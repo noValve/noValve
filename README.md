@@ -21,7 +21,7 @@
 
 ## Most Used Languages
 
-[![Top Lands](https://github-readme-stats.vercel.app/api/top-langs/?username=novalve)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lands](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=novalve)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Visitor Count
 
