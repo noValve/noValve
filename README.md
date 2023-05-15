@@ -21,5 +21,3 @@
 ## Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/noValve/count.svg)
-
-## Activity Time  
