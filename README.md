@@ -15,10 +15,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
-## Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ## Most Used Languages
 
 [![Top Lands](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=novalve)](https://github.com/anuraghazra/github-readme-stats)
