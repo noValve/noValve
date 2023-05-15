@@ -96,13 +96,4 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/noValve/noValve/main/assets/bar_graph.png)
-
-
- Last Updated on 14/05/2023 18:35:16 UTC
 <!--END_SECTION:waka-->
