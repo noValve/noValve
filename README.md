@@ -1,6 +1,6 @@
 # My Intro
 
-2nd year IT student
+3rd year IT student
 
 ## Contact
 
